@@ -99,7 +99,7 @@ This is a basic implementation. Future improvements may include:
 ## 📂 How to Run
 
 1. Upload dataset to your Colab environment.
-2. Run all cells in the notebook (`Copy_of_Untitled0.ipynb`).
+2. Run all cells in the notebook (`TEAM-117.ipynb`).
 3. All outputs, visualizations, and model metrics will be generated automatically.
 
 ---
