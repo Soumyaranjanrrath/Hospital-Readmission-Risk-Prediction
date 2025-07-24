@@ -23,6 +23,9 @@ Team(CLB)_3_21
 -Prabodh Behera (23CSE292)
 
 ---
+## Presentation 
+
+📂 [Download PPTX](Predicting-Hospital-Readmission-Risk-for-Patients-with-Chronic-Conditions.pptx)
 
 ## 📁 Dataset
 
