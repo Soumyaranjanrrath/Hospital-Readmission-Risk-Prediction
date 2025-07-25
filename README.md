@@ -24,8 +24,8 @@ Team(CLB)_3_21
 
 ---
 ## Presentation 
+[Predicting-Hospital-Readmission-Risk-for-Patients-with-Chronic-Conditions.pptx](https://github.com/user-attachments/files/21431502/Predicting-Hospital-Readmission-Risk-for-Patients-with-Chronic-Conditions.pptx)
 
-📂 [Download PPTX](Predicting-Hospital-Readmission-Risk-for-Patients-with-Chronic-Conditions.pptx)
 
 ## 📁 Dataset
 
